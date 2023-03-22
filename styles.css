@@ -1,0 +1,247 @@
+/**************************Tag Selectors*******************/
+
+body {
+ background-color:  #ffe1e170;
+ margin:0px;
+ text-align: center;
+ font-family: 'Merriweather', serif;;
+
+}
+
+h1 {
+
+    margin-top: 0px;
+    padding: 0px;
+    font-family:'Dancing Script', cursive;
+    font-size: 5.8rem;
+    display:inline-block;
+    color: #f8c0c0;
+    line-height: 1.1;
+    
+
+}
+
+h2 {
+
+    color: #829460;
+    font-weight: normal;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+a {
+
+    color: #f8c0c0;
+}
+
+h3 {
+
+    color: #829460;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    width: fit-content;
+
+}
+
+hr {
+
+    color:  #FFE1E1;
+    border-style: none none dotted none;
+    width: 3%;
+    border-bottom-width: 10px;
+    margin:0px auto 100px auto;
+    
+}
+
+
+
+/**************************Class Selectors*******************/
+
+.hello {
+
+    margin-bottom:50px;
+
+}
+
+.subtitle {
+
+    font-size: 2rem;
+    color: #f8c0c0;
+
+}
+
+
+.div0 {
+
+    background-color:#FFE1E1;
+    height: auto;
+    padding-top: 120px;
+    size: auto;
+
+
+
+}
+.cloud {
+
+    position: relative;
+    right: 5%;
+    margin-bottom: -18%;
+    display: inline-block;
+
+}
+
+.cloud1 {
+
+    position: relative;
+    left: 8%;
+    margin-bottom: 9%;
+    display: inline-block;
+
+}
+
+
+.mountain {
+
+   
+    position: auto;
+
+}
+
+.profile {
+    align-items: center;
+    padding: 10%;
+    margin: 100px auto 60px auto;
+}
+
+.pic {
+
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin-right:0px;
+    object-fit: fill;
+
+}
+
+.skills {
+
+    margin: 50px auto 100px auto;
+    padding-bottom:100px;
+   
+
+}
+
+
+
+
+.skill-row {
+
+    width: 50%;
+    margin: 100px auto 300px auto;
+}
+
+
+.titles_skills {
+
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row1 {
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+
+    
+}
+
+.pic1{
+
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    margin-left:30px; 
+    float:right;
+    
+
+
+}
+
+.titles_skills1 {
+
+    text-align: right;
+    line-height: 2;
+
+}
+
+.pic2 {
+
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    float:left;
+    margin-right:30px;
+    object-fit: fill;
+
+}
+
+.contact-me {
+
+    margin-bottom: 100px;
+    height: 300px;
+
+}
+
+.btn {
+
+    padding: 10px 10px;
+    background-color:#829460 ;
+    background-image: linear-gradient(#c0d3a9,#90A17D);
+    color: #FFE1E1;
+    border-radius: 5px;
+    text-decoration: none;
+    position: relative;
+    top: 35%;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    
+
+
+}
+
+.btn:hover {
+
+    background-image: linear-gradient(#FFE1E1,#e98787);
+    
+}
+
+.bottom-container {
+
+    background-color: #FFE1E1;
+    
+    margin-bottom:0px;
+    padding:50px;
+    
+}
+
+.footer-link {
+
+    margin: 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    
+    color: white;
+        
+}
+
+.author-rights {
+
+    color: white;
+    margin-top: 50px;
+}
+/**************************ID Selectors*******************/
